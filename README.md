@@ -1,14 +1,14 @@
-# Laboratório de Arquitetura e Organização de Computadores ILP-500
+# Laboratório de Arquitetura e Organização de Computadores - ILP-500
 
-Repositório da disciplina ILP-500 Laboratótio de Arquitetura e Organização de Computadores. FATEC São Paulo.
+Repositório da disciplina ILP-500 - Laboratótio de Arquitetura e Organização de Computadores. FATEC São Paulo.
 
-Disciplina ministrada usando DOS, BASIC, ASM(Assembly).
+Disciplina ministrada usando DoS, BASIC, ASM(Assembly).
 
 Professor: Prof. Arnaldo (DTI-FATECSP)
 
 ## Index
 
-- [Laboratório de Arquitetura e Organização de Computadores ILP-500](#laboratório-de-arquitetura-e-organização-de-computadores-ilp-500)
+- [Laboratório de Arquitetura e Organização de Computadores - ILP-500](#laboratório-de-arquitetura-e-organização-de-computadores---ilp-500)
   - [Index](#index)
   - [Conteúdo](#conteúdo)
     - [Introdução](#introdução)
